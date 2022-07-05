@@ -44,7 +44,7 @@
                   :src="logo"
                   alt="logo"
                 >
-                {{ brand.agency.name }}
+                
               </nuxt-link>
               <scrollactive
                 v-if="!invert && loaded"
@@ -58,7 +58,7 @@
                     :src="logo"
                     alt="logo"
                   >
-                  {{ brand.agency.name }}
+                  
                 </a>
               </scrollactive>
             </div>
@@ -118,7 +118,7 @@
 </style>
 
 <script>
-import logo from '~/static/images/agency-logo.svg'
+import logo from '~/static/images/logompsoft.jpeg'
 import link from '~/static/text/link'
 import brand from '~/static/text/brand'
 import navMenu from './menu'

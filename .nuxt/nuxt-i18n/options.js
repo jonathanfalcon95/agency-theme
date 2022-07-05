@@ -20,7 +20,7 @@ export const options = {
   sortRoutes: true,
   strategy: "prefix_except_default",
   lazy: true,
-  langDir: "C:\\Users\\jonat\\Downloads\\veluxi_v3\\veluxi\\packages\\agency-theme\\static\\lang",
+  langDir: "C:\\Users\\jonat\\Desktop\\Projects\\veluxi_v3\\veluxi\\packages\\agency-theme\\static\\lang",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":true,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","redirectOn":"root","useCookie":true},
   differentDomains: false,
